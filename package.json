@@ -1,0 +1,36 @@
+{
+    "name": "your-pdf",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "@craftjs/core": "^0.2.12",
+        "@emotion/cache": "^11.14.0",
+        "@emotion/react": "^11.14.0",
+        "@emotion/styled": "^11.14.0",
+        "@mui/icons-material": "^6.4.5",
+        "@mui/material": "^6.4.5",
+        "@mui/material-nextjs": "^6.4.3",
+        "copy-to-clipboard": "^3.3.3",
+        "lzutf8": "^0.6.3",
+        "next": "^15.1.7",
+        "react": "^19.0.0",
+        "react-contenteditable": "^3.3.7",
+        "react-dom": "^19.0.0"
+    },
+    "devDependencies": {
+        "@types/node": "22.13.5",
+        "@types/react": "19.0.10",
+        "eslint": "9.21.0",
+        "eslint-config-next": "15.1.7",
+        "typescript": "5.7.3"
+    }
+}
